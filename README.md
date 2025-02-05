@@ -2,6 +2,6 @@
 1. Quiz ni terminalda ishga tushirish uchun:
 
     ```bash
-    > php main.php
+     php main.php
     ```
    
